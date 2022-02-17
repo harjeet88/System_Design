@@ -26,6 +26,10 @@
 ## Courses
 1.[Hired In Tech](https://www.hiredintech.com/system-design/the-system-design-process/)
 
+## Great Sources
+1. [DoneMartin](https://github.com/donnemartin/system-design-primer)
+2. [CheckzCheckz](https://github.com/checkcheckzz/system-design-interview)
+
 
 ## Papers
 1. [Big Table](https://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
