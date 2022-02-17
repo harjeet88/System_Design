@@ -3,8 +3,9 @@
 ## Introduction
 
 ## Notes
-1. [System Design Notes](https://tianpan.co/notes/121-designing-facebook-photo-storage)
-2. 
+1. [System Design Notes(Tianpan)](https://tianpan.co/notes/121-designing-facebook-photo-storage)
+2. [Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
+3. [CAP Theorem](https://www.ibm.com/in-en/cloud/learn/cap-theorem)
 
 ## Case Studies
 1. [Gaurav Sen's Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
