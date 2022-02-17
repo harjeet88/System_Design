@@ -2,6 +2,10 @@
 
 ## Introduction
 
+## Notes
+1. [System Design Notes](https://tianpan.co/notes/121-designing-facebook-photo-storage)
+2. 
+
 ## Case Studies
 1. [Gaurav Sen's Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 2. [Data Savvy's PlatList](https://www.youtube.com/playlist?list=PL9sbKmQTkW07EzCVhfZ1h1V1TCW0aKK6k)
@@ -19,3 +23,9 @@
 1. [Hasgeek Playlist](https://www.youtube.com/watch?v=4ax4DynpqAY&list=PL279M8GbNsetn_RfHPfazEZGK4TZ8Vdch)
 
 ## Courses
+1.[Hired In Tech](https://www.hiredintech.com/system-design/the-system-design-process/)
+
+
+## Papers
+1. [Big Table](https://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
+2. 
