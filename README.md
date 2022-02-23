@@ -14,6 +14,9 @@
 4. [IBM Cloud Concepts YT](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ)
 5. [Stackoverflow](https://www.youtube.com/watch?v=t6kM2EM6so4)
 
+## Books
+1. [System Design Book](https://liuzhenglaichn.gitbook.io/system-design/)
+
 ## YT Blogs
 1. [Uber Scaling](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
 2. [Hotstar Scaling](https://www.youtube.com/watch?v=QjvyiyH4rr0)
