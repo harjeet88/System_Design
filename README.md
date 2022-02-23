@@ -12,10 +12,12 @@
 2. [Data Savvy's PlatList](https://www.youtube.com/playlist?list=PL9sbKmQTkW07EzCVhfZ1h1V1TCW0aKK6k)
 3. [Narendra's Playlist](https://www.youtube.com/c/TechDummiesNarendraL/playlists)
 4. [IBM Cloud Concepts YT](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ)
+5. [Stackoverflow](https://www.youtube.com/watch?v=t6kM2EM6so4)
 
 ## YT Blogs
 1. [Uber Scaling](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
 2. [Hotstar Scaling](https://www.youtube.com/watch?v=QjvyiyH4rr0)
+3. [Stackoverflow](https://www.youtube.com/watch?v=t6kM2EM6so4)
 
 ## Tech Comparisions
 1. [Druid vs Pinot vs ClickHouse](https://leventov.medium.com/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
