@@ -7,7 +7,13 @@
 2. [Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 3. [CAP Theorem](https://www.ibm.com/in-en/cloud/learn/cap-theorem)
 
-## Case Studies
+## Case Study
+1. Notification Service
+2. Cowin Application
+3. Forecast System design
+4. 
+
+## Case Studies - External Source
 1. [Gaurav Sen's Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 2. [Data Savvy's PlatList](https://www.youtube.com/playlist?list=PL9sbKmQTkW07EzCVhfZ1h1V1TCW0aKK6k)
 3. [Narendra's Playlist](https://www.youtube.com/c/TechDummiesNarendraL/playlists)
