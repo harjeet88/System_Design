@@ -8,7 +8,7 @@
 3. [CAP Theorem](https://www.ibm.com/in-en/cloud/learn/cap-theorem)
 
 ## Case Study
-1. Notification Service
+1. [Notification Service](https://github.com/harjeet88/System_Design/wiki/Notification-Service)
 2. Cowin Application
 3. Forecast System design
 4. 
