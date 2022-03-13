@@ -34,6 +34,7 @@
 
 ## Tech Comparisions
 1. [Druid vs Pinot vs ClickHouse](https://leventov.medium.com/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
+2. [Grokking SD](https://github.com/ema2159/Grokking-System-Design-Interview-Quizzes)
 
 ## Dev Ops and Software Engg
 1. [Hasgeek Playlist](https://www.youtube.com/watch?v=4ax4DynpqAY&list=PL279M8GbNsetn_RfHPfazEZGK4TZ8Vdch)
