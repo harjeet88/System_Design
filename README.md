@@ -11,7 +11,7 @@
 1. [Notification Service](https://github.com/harjeet88/System_Design/wiki/Notification-Service)
 2. Cowin Application
 3. Forecast System design
-4. 
+4. [Algo Expert](https://github.com/kokadva/algoexpert-system-design-practice)
 
 ## Case Studies - External Source
 1. [Gaurav Sen's Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
