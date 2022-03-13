@@ -40,6 +40,7 @@
 
 ## Courses
 1.[Hired In Tech](https://www.hiredintech.com/system-design/the-system-design-process/)
+2.[Gorokking System design](https://github.com/imujjwalanand/Grokking-the-System-Design)
 
 ## Great Sources
 1. [DoneMartin](https://github.com/donnemartin/system-design-primer)
