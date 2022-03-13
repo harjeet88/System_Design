@@ -45,6 +45,7 @@
 ## Great Sources
 1. [DoneMartin](https://github.com/donnemartin/system-design-primer)
 2. [CheckzCheckz](https://github.com/checkcheckzz/system-design-interview)
+3. [Jeevan Kumar](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 
 
 ## Papers
