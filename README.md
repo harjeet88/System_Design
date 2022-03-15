@@ -27,6 +27,7 @@
 1. [Uber Scaling](https://www.youtube.com/watch?v=DY2AR8Wzg3Y)
 2. [Hotstar Scaling](https://www.youtube.com/watch?v=QjvyiyH4rr0)
 3. [Stackoverflow](https://www.youtube.com/watch?v=t6kM2EM6so4)
+4. [Differential Sync - Google Docs](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
 
 ## OOPS design
 1. [Grokking oops](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
