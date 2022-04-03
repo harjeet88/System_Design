@@ -19,6 +19,7 @@
 3. [Narendra's Playlist](https://www.youtube.com/c/TechDummiesNarendraL/playlists)
 4. [IBM Cloud Concepts YT](https://www.youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ)
 5. [Stackoverflow](https://www.youtube.com/watch?v=t6kM2EM6so4)
+6. [Lmax Arch](https://martinfowler.com/articles/lmax.html)
 
 ## Books
 1. [System Design Book](https://liuzhenglaichn.gitbook.io/system-design/)
