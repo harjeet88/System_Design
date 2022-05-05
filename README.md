@@ -51,6 +51,7 @@ Serach on github for more
 1. [DoneMartin](https://github.com/donnemartin/system-design-primer)
 2. [CheckzCheckz](https://github.com/checkcheckzz/system-design-interview)
 3. [Jeevan Kumar](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
+4. [Danny Zhang's System Design cheetsheat](https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4)
 
 
 ## Papers
