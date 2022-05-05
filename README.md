@@ -52,6 +52,7 @@ Serach on github for more
 2. [CheckzCheckz](https://github.com/checkcheckzz/system-design-interview)
 3. [Jeevan Kumar](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 4. [Danny Zhang's System Design cheetsheat](https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4)
+5. [Great Resume Git](https://github-com.translate.goog/resumejob?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 
 ## Papers
