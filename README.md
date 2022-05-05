@@ -56,3 +56,5 @@ Serach on github for more
 ## Papers
 1. [Big Table](https://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
 2. [Cassandra Design](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+3. [Danny Zhang's List](https://github.com/dennyzhang/cheatsheet-paper-A4/tree/master/paper)
+
