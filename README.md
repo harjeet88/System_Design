@@ -29,6 +29,7 @@
 2. [Hotstar Scaling](https://www.youtube.com/watch?v=QjvyiyH4rr0)
 3. [Stackoverflow](https://www.youtube.com/watch?v=t6kM2EM6so4)
 4. [Differential Sync - Google Docs](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
+5. [Byte Byte Go](https://www.youtube.com/c/ByteByteGo)
 
 ## OOPS design
 1. [Grokking oops](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
